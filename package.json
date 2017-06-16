@@ -1,0 +1,29 @@
+{
+  "name": "christory",
+  "version": "0.0.0",
+  "description": "Timeline of human history from a christian perspective",
+  "main": "index.html",
+  "scripts": {
+    "start": " python -m SimpleHTTPServer",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KereszTech/Christory.git"
+  },
+  "keywords": [
+    "bible",
+    "christianity",
+    "timeline",
+    "history"
+  ],
+  "author": "KereszTech",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KereszTech/Christory/issues"
+  },
+  "homepage": "https://github.com/KereszTech/Christory#readme",
+  "dependencies": {
+    "vis": "^4.20.0"
+  }
+}

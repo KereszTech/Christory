@@ -1,0 +1,15 @@
+[
+	{
+		"id": "1",
+		"group": "1",
+		"content": "test",
+		"start": "2017-06-16",
+		"type": "box"
+	}, {
+		"id": "2",
+		"group": "3",
+		"content": "Sample content",
+		"start": "2017-06-17 16:32:05",
+		"type": "box"
+	}
+]
